@@ -1,0 +1,2 @@
+# python_data_structure
+利用python實作常見的資料結構
